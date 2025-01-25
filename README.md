@@ -6,21 +6,37 @@ Here, we have gathered the latest research papers, datasets, and experimental re
 
 We hope that by organizing and sharing these resources, we can provide assistance and inspiration for research and projects in related fields. Your valuable feedback and suggestions are always welcome!
 
-## 2025
-|  Title  |   Venue  |   Code   |  Method  | Datasets |Experiments|
+## 内容说明
+|  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|论文标题名，带PDF链接| 发表会议/期刊，缩写|代码链接，如无，则-|全监督/半监督/自监督/教师学生等|数据集对应下方Datasets表格,若没有，则补充进Datasets表格|评价指标及对应数值/内存消耗/时间消耗|
-|[**Anomaly Detection via Reverse Distillation from One-Class Embedding**](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html) <br> | CVPR | [Github](https://github.com/hq-deng/RD4AD) | Semi-supervised & Teacher-student ![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/sample2.png)|[AITEX](https://www.cvmart.net/dataSets/detail/300) | **1. Evaluation metrics and accuracy:** ![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/sample.png)<br> **2. Computational cost:** |
+|论文标题名，带PDF链接| 发表会议/期刊，缩写|代码链接，如无，则-|数据集对应下方Datasets表格,若没有，则补充进Datasets表格|全监督/半监督/自监督/教师学生等|评价指标及对应数值/训练时间/测试时间，可以截图也可文字，截图需把评价指标（AUC等）/数据集等信息截全，文字也需如此（xx数据集上xx指标达到xx）|
+
+## 2025
+|  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Anomaly Detection via Reverse Distillation from One-Class Embedding**](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html) <br> | CVPR | [Github](https://github.com/hq-deng/RD4AD) | [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)| Semi-supervised & Teacher-student ![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/sample2.png)|**1. Evaluation metrics and accuracy:** MVTec数据集上AUC98.5%![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/sample.png)<br> **2. Computational cost:** 训练时间无，测试时间0.31s/张|
+|         |          |          |          |          |          |
+|         |          |          |          |          |          |
+|         |          |          |          |          |          |
+
+
 
 ## 2024
-|  Title  |   Venue  |   Code   |  Method  | Datasets |Experiments|
+|  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**Anomaly Detection via Reverse Distillation from One-Class Embedding**](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html) <br> | CVPR | [Github](https://github.com/hq-deng/RD4AD) | Semi-supervised |[AITEX](https://www.cvmart.net/dataSets/detail/300) | **1. Evaluation metrics and accuracy:** <br> **2. Computational cost:** |
+|         |          |          |          |          |          |
+|         |          |          |          |          |          |
+|         |          |          |          |          |          |
+|         |          |          |          |          |          |
+
 
 ## 2023
-|  Title  |   Venue  |   Code   |  Method  | Datasets |Experiments|
+|  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**Anomaly Detection via Reverse Distillation from One-Class Embedding**](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html) <br> | CVPR | [Github](https://github.com/hq-deng/RD4AD) | Semi-supervised |[AITEX](https://www.cvmart.net/dataSets/detail/300) | **1. Evaluation metrics and accuracy:** <br> **2. Computational cost:** |
+|         |          |          |          |          |          |
+|         |          |          |          |          |          |
+|         |          |          |          |          |          |
+|         |          |          |          |          |          |
 
 
 
@@ -57,4 +73,4 @@ We hope that by organizing and sharing these resources, we can provide assistanc
 | [VisA](https://github.com/amazon-science/spot-diff)                   | 12    | 9621   | 1200     | 10821  | Segmentation mask | RGB real         | ECCV,2022    |
 | [RAD](https://github.com/hustCYQ/RAD-dataset)                   | 4    | 213   | 1224     | 1224  | Segmentation mask | RGB real         | CASE,2024    |
 __________________________________
-:kissing_heart:	:kissing_heart:	:kissing_heart:	 The page is created by the Qi Jia Laboratory at Dalian University of Technology, with major contributors Qiuhan Bo, Pengshuo Zhang, and Shuilian Yao.
+:kissing_heart::kissing_heart::kissing_heart:	 The page is created by the Qi Jia Laboratory at Dalian University of Technology, with major contributors Qiuhan Bo, Pengshuo Zhang, and Shuilian Yao.
