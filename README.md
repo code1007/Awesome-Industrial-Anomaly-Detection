@@ -10,7 +10,7 @@ We hope that by organizing and sharing these resources, we can provide assistanc
 |  Title  |   Venue  |   Code   |  Method  | Datasets |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |论文标题名，带PDF链接| 发表会议/期刊，缩写|代码链接，如无，则-|全监督/半监督/自监督/教师学生等|数据集对应下方Datasets表格,若没有，则补充进Datasets表格|评价指标及对应数值/内存消耗/时间消耗|
-|[**Anomaly Detection via Reverse Distillation from One-Class Embedding**](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html) <br> | CVPR | [Github](https://github.com/hq-deng/RD4AD) | Semi-supervised |[AITEX](https://www.cvmart.net/dataSets/detail/300) | **1. Evaluation metrics and accuracy:** <br> **2. Computational cost:** |
+|[**Anomaly Detection via Reverse Distillation from One-Class Embedding**](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html) <br> | CVPR | [Github](https://github.com/hq-deng/RD4AD) | Semi-supervised |[AITEX](https://www.cvmart.net/dataSets/detail/300) | **1. Evaluation metrics and accuracy:** ![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/sample.png)<br> **2. Computational cost:** |
 
 ## 2024
 |  Title  |   Venue  |   Code   |  Method  | Datasets |Experiments|
