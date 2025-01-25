@@ -6,7 +6,7 @@ Here, we have gathered the latest research papers, datasets, and experimental re
 
 We hope that by organizing and sharing these resources, we can provide assistance and inspiration for research and projects in related fields. Your valuable feedback and suggestions are always welcome!
 
-The page is created by the Qi Jia Laboratory at Dalian University of Technology, with major contributors Qiuhan Bo, Pengshuo Zhang, and Shuilian Yao. :kissing_heart: :kissing_heart: :kissing_heart: 
+The page is created by the Qi Jia Lab at Dalian University of Technology, with major contributors Qiuhan Bo, Pengshuo Zhang, and Shuilian Yao. :kissing_heart: :kissing_heart: :kissing_heart: 
 
 ## 内容说明
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
