@@ -6,6 +6,8 @@ Here, we have gathered the latest research papers, datasets, and experimental re
 
 We hope that by organizing and sharing these resources, we can provide assistance and inspiration for research and projects in related fields. Your valuable feedback and suggestions are always welcome!
 
+:kissing_heart::kissing_heart::kissing_heart:	 The page is created by the Qi Jia Laboratory at Dalian University of Technology, with major contributors Qiuhan Bo, Pengshuo Zhang, and Shuilian Yao.
+
 ## 内容说明
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
@@ -72,5 +74,4 @@ We hope that by organizing and sharing these resources, we can provide assistanc
 | [Steel tube dataset](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection)     | 1     | 0      | 3408     | 3408   | Bounding box      | RGB real         | 2021         |
 | [VisA](https://github.com/amazon-science/spot-diff)                   | 12    | 9621   | 1200     | 10821  | Segmentation mask | RGB real         | ECCV,2022    |
 | [RAD](https://github.com/hustCYQ/RAD-dataset)                   | 4    | 213   | 1224     | 1224  | Segmentation mask | RGB real         | CASE,2024    |
-__________________________________
-:kissing_heart::kissing_heart::kissing_heart:	 The page is created by the Qi Jia Laboratory at Dalian University of Technology, with major contributors Qiuhan Bo, Pengshuo Zhang, and Shuilian Yao.
+
