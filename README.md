@@ -6,14 +6,14 @@ Here, we have gathered the latest research papers, datasets, and experimental re
 
 We hope that by organizing and sharing these resources, we can provide assistance and inspiration for research and projects in related fields. Your valuable feedback and suggestions are always welcome!
 
-The page is created by the Qi Jia Lab at Dalian University of Technology, with major contributors Qiuhan Bo, Pengshuo Zhang, and Shuilian Yao. :kissing_heart: :kissing_heart: :kissing_heart: 
+The page is created by the Qi Jia Lab at Dalian University of Technology, with major contributors Qiuhan Bo :girl:	, Pengshuo Zhang :boy:	, and Shuilian Yao. :kissing_heart: :kissing_heart: :kissing_heart: 
 
 ## 内容说明
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |论文标题名，带PDF链接| 发表会议/期刊，缩写|代码链接，如无，则-|数据集对应下方Datasets表格,若没有，则补充进Datasets表格|全监督/半监督/自监督/教师学生等|评价指标及对应数值/训练时间/测试时间，可以截图也可文字，截图需把评价指标（AUC等）/数据集等信息截全，文字也需如此（xx数据集上xx指标达到xx）|
 
-## 2025
+## 2025 :heart_eyes:	
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[**Anomaly Detection via Reverse Distillation from One-Class Embedding**](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html) <br> | CVPR | [Github](https://github.com/hq-deng/RD4AD) | [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)| Semi-supervised & Teacher-student ![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/sample2.png)|**1. Evaluation metrics and accuracy:** MVTec数据集上AUC98.5%![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/sample.png)<br> **2. Computational cost:** 训练时间无，测试时间0.31s/张|
@@ -23,7 +23,7 @@ The page is created by the Qi Jia Lab at Dalian University of Technology, with m
 
 
 
-## 2024
+## 2024 :kissing_closed_eyes:	
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |         |          |          |          |          |          |
@@ -32,7 +32,7 @@ The page is created by the Qi Jia Lab at Dalian University of Technology, with m
 |         |          |          |          |          |          |
 
 
-## 2023
+## 2023 :laughing:	
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |         |          |          |          |          |          |
