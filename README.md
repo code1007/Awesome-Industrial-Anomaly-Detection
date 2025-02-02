@@ -49,6 +49,7 @@ The page is created by the Qi Jia Lab at Dalian University of Technology 🏫, w
 
 | Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
 |------------------------|-------|--------|----------|--------|-------------------|-----------------------|--------------|
+| [VisA](https://github.com/amazon-science/spot-diff)                   | 12    | 9621   | 1200     | 10821  | Segmentation mask | RGB real         | ECCV,2022    |
 | [AITEX](https://www.cvmart.net/dataSets/detail/300)                  | 1     | 140    | 105      | 245    | Segmentation mask | RGB real         | 2019         |
 | [Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet)       | 40    | -      | -        | 1600   | Point-level mask  | Point-cloud synthetic | CVPR,2024    |
 | [BTAD](http://avires.dimi.uniud.it/papers/btad/btad.zip)                   | 3     | -      | -        | 2830   | Segmentation mask | RGB real         | 2021         |
@@ -76,6 +77,5 @@ The page is created by the Qi Jia Lab at Dalian University of Technology 🏫, w
 | [RSDD](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8063875)                   | 2     | -      | -        | 195    | Segmentation mask | RGB real         | 2017         |
 | [Steel defect detection](https://www.kaggle.com/code/ekhtiar/resunet-a-baseline-on-tensorflow/notebook) | 1     | -      | -        | 18076  | Image             | RGB real         | 2019         |
 | [Steel tube dataset](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection)     | 1     | 0      | 3408     | 3408   | Bounding box      | RGB real         | 2021         |
-| [VisA](https://github.com/amazon-science/spot-diff)                   | 12    | 9621   | 1200     | 10821  | Segmentation mask | RGB real         | ECCV,2022    |
 | [RAD](https://github.com/hustCYQ/RAD-dataset)                   | 4    | 213   | 1224     | 1224  | Segmentation mask | RGB real         | CASE,2024    |
 
