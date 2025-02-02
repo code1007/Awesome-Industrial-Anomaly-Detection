@@ -26,7 +26,7 @@ The page is created by the Qi Jia Lab at Dalian University of Technology 🏫, w
 ## 2024 :kissing_closed_eyes:	
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|         |          |          |          |          |          |
+| [**Implicit Foreground-Guided Network for Anomaly Detection and Localization**](https://ieeexplore.ieee.org/abstract/document/10446952) |  ICASSP  |    -    |   [VisA](https://github.com/amazon-science/spot-diff)   |  full-supervised  |          |
 |         |          |          |          |          |          |
 |         |          |          |          |          |          |
 |         |          |          |          |          |          |
