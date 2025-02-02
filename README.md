@@ -26,7 +26,7 @@ The page is created by the Qi Jia Lab at Dalian University of Technology 🏫, w
 ## 2024 :kissing_closed_eyes:	
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [**Implicit Foreground-Guided Network for Anomaly Detection and Localization**](https://ieeexplore.ieee.org/abstract/document/10446952) |  ICASSP  |    -    |   [VisA](https://github.com/amazon-science/spot-diff)   |  full-supervised  |          |
+| [**Implicit Foreground-Guided Network for Anomaly Detection and Localization**](https://ieeexplore.ieee.org/abstract/document/10446952) |  ICASSP  |    -    |   [VisA](https://github.com/amazon-science/spot-diff) [BTAD](http://avires.dimi.uniud.it/papers/btad/btad.zip)   |  [full-supervised]![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/ICASSP2024-1-1.png)  | **1. Evaluation metrics and accuracy:** VisA数据集上AUC98.4%,BTAD数据集AUC93.3%![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/ICASSP2024-1-2.png)<br> **2. Computational cost:** 训练时间无，测试时间无         |
 |         |          |          |          |          |          |
 |         |          |          |          |          |          |
 |         |          |          |          |          |          |
