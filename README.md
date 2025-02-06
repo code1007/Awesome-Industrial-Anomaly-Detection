@@ -16,7 +16,6 @@ The page is created by the Qi Jia Lab at Dalian University of Technology 🏫, w
 ## 2025 :heart_eyes:	
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**Anomaly Detection via Reverse Distillation from One-Class Embedding**](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html) <br> | CVPR | [Github](https://github.com/hq-deng/RD4AD) | [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)| Semi-supervised & Teacher-student ![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/sample2.png)|**1. Evaluation metrics and accuracy:** MVTec数据集上AUC98.5%![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/sample.png)<br> **2. Computational cost:** 训练时间无，测试时间0.31s/张|
 |         |          |          |          |          |          |
 |         |          |          |          |          |          |
 |         |          |          |          |          |          |
@@ -35,6 +34,7 @@ The page is created by the Qi Jia Lab at Dalian University of Technology 🏫, w
 ## 2022 :laughing:	
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Anomaly Detection via Reverse Distillation from One-Class Embedding**](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html) <br> | CVPR | [Github](https://github.com/hq-deng/RD4AD) | [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)| Semi-supervised & Teacher-student ![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/sample2.png)|**1. Evaluation metrics and accuracy:** MVTec数据集上AUC98.5%（电路板96%）![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/sample.png)<br> **2. Computational cost:** 训练时间无，测试时间0.31s/张|
 |[**Fapm: Fast adaptive patch memory for real-time industrial anomaly detection**](https://arxiv.org/pdf/2211.07381)| arxiv |   -   | [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)   | memory bank![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/arxiv-1.png)  |    **1. Evaluation metrics and accuracy:** MVTec AD数据集上AUC98.0%-99.0%(电路板98.2%-100%)![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/arxiv-2.png)<br> **2. Computational cost:** 测试FPS 44.1= 推理延迟（1/44.1 ≈ 22.7ms）毫秒级响应（30 FPS 以上通常可以被认为是实时的）![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/arxiv-4.png)     |
 |         |          |          |          |          |          |
 |         |          |          |          |          |          |
