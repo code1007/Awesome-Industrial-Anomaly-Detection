@@ -26,16 +26,16 @@ The page is created by the Qi Jia Lab at Dalian University of Technology 🏫, w
 ## 2024 :kissing_closed_eyes:	
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [**Implicit Foreground-Guided Network for Anomaly Detection and Localization**](https://ieeexplore.ieee.org/abstract/document/10446952) |  ICASSP  |    -    |   [VisA](https://github.com/amazon-science/spot-diff)  |  [full-supervised]![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/ICASSP2024-1-1.png)  | **1. Evaluation metrics and accuracy:** VisA数据集上AUC98.4%![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/ICASSP2024-1-2.png)<br> **2. Computational cost:** 训练时间无，测试时间无         |
+| [**Implicit Foreground-Guided Network for Anomaly Detection and Localization**](https://ieeexplore.ieee.org/abstract/document/10446952) |  ICASSP  |    -    |   [VisA](https://github.com/amazon-science/spot-diff)  | full-supervised![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/ICASSP2024-1-1.png)  | **1. Evaluation metrics and accuracy:** VisA数据集上AUC98.4%![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/ICASSP2024-1-2.png)<br> **2. Computational cost:** 训练时间无，测试时间无         |
 |         |          |          |          |          |          |
 |         |          |          |          |          |          |
 |         |          |          |          |          |          |
 
 
-## 2023 :laughing:	
+## 2022 :laughing:	
 |  Title  |   Venue  |   Code   | Datasets |  Method  |Experiments|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|         |          |          |          |          |          |
+|[**Fapm: Fast adaptive patch memory for real-time industrial anomaly detection**](https://arxiv.org/pdf/2211.07381)| arxiv |   -   | [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)   | memory bank![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/arxiv-1.png)  |    **1. Evaluation metrics and accuracy:** MVTec AD数据集上AUC98.0%-99.0%(电路板98.2%-100%)![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/arxiv-2.png)<br> **2. Computational cost:** 测试FPS 44.1= 推理延迟（1/44.1 ≈ 22.7ms）毫秒级响应（30 FPS 以上通常可以被认为是实时的）![image](https://github.com/YAOSL98/Awesome-Industrial-Anomaly-Detection/blob/main/arxiv-4.png)     |
 |         |          |          |          |          |          |
 |         |          |          |          |          |          |
 |         |          |          |          |          |          |
